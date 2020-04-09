@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "laravel-spread-bot",
+  "private_key_id": "476dad0ad399b2246a06f227fcf1a348812aa40f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCcggr52iKDwxml\n5IYHMTQUJpYOpWpTqrHQ81Qccyv+fWz5AMVM/EG4OHZsL6ouKgAUHa8ks23TAz9T\nGBQxOJ5Anus5Dg0NOleopO4Rtx3V8/QfMPNmOG7Fu8sHNJXC1nkAXQ0WX/2TwUzN\neTg6GmhVKcBoMyniaBAV2LXQRlTf6nuBXmFoSxtHAxS+AWdBbxWZXGeW7Tl2dgG8\nZ3m4nKE0uBcgDrLcUi2U0PlRgdVOZ5wc2WrVb0xnANHTsaRqpcOa9zyLaoKKIdQl\nFumnIocOHRW8pjGmD4R3AUB4GKPcF3izWHRkI5eyQEbh4U/eMlpg9qT5RkPGKtX8\nsFs4qIjHAgMBAAECggEAK3ODPpjMKk65STBn8Yk8jzejQ4+zNGVYls1nlbp4BWCn\nJ36KSHRkfpPWdPTKx6RLf0o6fPL/06y8IQK3YG76qLA2WBHJl9mRyrV3jx2KwALJ\nzPsXKFMUlfssQ+Tai0xmLa6n2oVt7l6lRwqXjLIWM0azL3q87ym7BYWz/I36NGwD\nDl2D6O6AQSHKtK0gvZDBSNaB7l8kNYqialP5nhE5nfm0tT+uKtepHHjDnSKuB5gp\nwcEmw5NFdwbhgjmlHbB7mGW0EPm8y48MHgeL2E7bLLWjXfRe2P8xel2v4XlRvSF8\nefkzp1OfFb2363uTLJLP2ujZAB6YDA6AOYsON+09kQKBgQDNH8fwYfTmPGtZuoAH\nsvjw8Jty9Y7C6o4WguWdmYwL7TqdbKePndCa7P/Nwohfnsa2o1Nm7T5sezvENe9p\n2Ls1zDUlynVVMmnihjGam4RY9bG2+fo14drV6DzXWSiJbN3RqqtmqpwVzKQNMcWX\njY5PFajhoe7h3NFDF3V9vCMy7wKBgQDDU2lNPSzPrHN1+w0/1Vosr0j4ufKqifPS\nj5EViiNe6SXIZNFNcjqpZ4/ilHGHcDL6aWaaqzKlnI1Je1PnFtNAFne8z14yhCOc\nSUkmW4ne3EJ0QDEy+J1+xM6X/C7EZC1gBGOkhHREqPjhNtVunYS0Y5B0hcqcnZq9\nvMLhm+6nqQKBgQCLekfG8aTIBV9tlP5Hve++Ta01/zlC2qEhN4KQpn7vATFxKBfL\n9SCKqArMy7FVa65tNCObAkkHFMiwA4i3LXMnAqNE/iTIeM49BMin+4WDxBVCeTok\n912JRDBSskJ5J7ixP97qoaoevJb0jdpw0gVpSy4ZtrWriS4V89alV4+LqwKBgQCQ\neK+YW7k7WhiEmU5xeoMaLgRRRGhCz4qyoVH0lpoW52f00u0k1WqiRmFce+OFA+4Q\n3cjwedQaPrMaOMgUUwOpkXS7CL5pqucT//jFEEvntQ7KIXjCdLU5QKR2Mib9SANv\n049H7lh5OGntWrt+969iJYqBRTxZnxEHagjTCpz5EQKBgFK/5XtQa5sdjsjO5DE7\nx/ae7oSd7K/NXxc0K3taJatfHXzGt+T2+0z60MFyQVd9zwhId7Aed2cp4n/efVdZ\nrQutdvuZYNob21FBjtndhqblPbBzT8SqyAiT5g3iGuYskX2c0/EPm0XebB23F4Mc\n9uxcwOvNYXGi5PX4RZmsOn9a\n-----END PRIVATE KEY-----\n",
+  "client_email": "laravel-spread-bot@laravel-spread-bot.iam.gserviceaccount.com",
+  "client_id": "115389982072635276745",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/laravel-spread-bot%40laravel-spread-bot.iam.gserviceaccount.com"
+}
